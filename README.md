@@ -1,1 +1,1 @@
-<h2>Projeto utilizando API REST para lista café da manhã.</h2>
+<h2>Projeto utilizando API REST para lista do café da manhã.</h2>
